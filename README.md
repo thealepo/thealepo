@@ -1,19 +1,23 @@
-# 👋 Hi, I'm Alex Sanchez
+# 👋 Hi, I'm Alex Eduardo Sanchez
 
 [![Followers](https://img.shields.io/github/followers/thealepo?label=Followers&style=flat-square)](https://github.com/thealepo)
-[![GitHub repositories](https://img.shields.io/badge/Repositories-9-blue?style=flat-square)](https://github.com/thealepo?tab=repositories)
 
-## About
-I'm a Computer Science and Mathematics student at Florida International University, also pursuing a Master's in Artificial Intelligence. I'm passionate about AI/ML research and engineering.
+## About Me
+I'm an Undergraduate at Florida International University studying Computer Science & Mathematics, while concurrently pursuing a Master's in Artificial Intelligence.
+My passion lies in building AI systems that matter. I love working on projects that combine theoretical insight with engineering. At the cross of engineering and research, we can find the greatest pushes of innovation.
 
 ## 🎓 Education
 - **M.S. in Artificial Intelligence** - Florida International University (2025 - 2027)
 - **B.S. in Computer Science + Mathematics** - Florida International University (2023 - 2026)
 
-## Tech & Interests
-- 🧰 Focus: ML Engineering/Research
-- 🔭 Research Areas: Large Language Models, Multi-Agent Systems
-- ❤️ Interests: Artificial Intelligence, Mathematical Theory
+## 🔭 Current Projects
+- ⚡ **Hybrid Neuro-Symbolic Theorem Prover** - blending LLM reasoning with symbolic proof assistants
+
+## ⚙️ Tech & Interests
+- Artificial Intelligence & Machine Learning
+- Foundations of AI
+- Multi-Agent Systems
+- Applied Research
 
 ## 🚀 About Me
 - 🌱 Currently focusing on AI/ML research and development
@@ -21,5 +25,6 @@ I'm a Computer Science and Mathematics student at Florida International Universi
 - 📚 Passionate about combining theoretical mathematics with practical AI applications
 - 📅 Coding since 2023
 
-## Follow Me
-- LinkedIn:
+## 🤝 Connect with Me
+- Email: sanchezc.alexe@gmail.com
+- LinkedIn: https://www.linkedin.com/in/alex-e-sanchez
