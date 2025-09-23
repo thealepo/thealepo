@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alex Eduardo Sanchez
+# 👋 Hi, I'm Alex!
 
 [![Followers](https://img.shields.io/github/followers/thealepo?label=Followers&style=flat-square)](https://github.com/thealepo)
 
