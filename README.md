@@ -3,7 +3,7 @@
 ## About Me
 I'm an Undergraduate at Florida International University studying Computer Science & Mathematics, while concurrently pursuing a Master's in Artificial Intelligence.
 My passion lies in building AI systems that matter. I love working on projects that combine theoretical insight with engineering. I believe that at the cross of engineering and research, we can find the greatest leaps of innovation.
-When I'm not coding, you can find me doing Calisthenics or playing Chess 🤓
+When I'm not coding, you can find me doing Calisthenics or playing Chess. 🤓
 
 ## 🎓 Education
 - **M.S. in Artificial Intelligence** - Florida International University (2025 - 2027)
