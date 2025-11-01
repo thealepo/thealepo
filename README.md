@@ -23,6 +23,6 @@ I am currently exploring complex topics in AI and reasoning:
 ---
 
 ### 📫 Contact Me!
-I'm always open to connecting and discussing new ideas.
+I'm always open to connecting.
    * LinkedIn: https://www.linkedin.com/in/alex-e-sanchez
    * Email: sanchezc.alexe@gmail.com
