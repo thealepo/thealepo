@@ -1,10 +1,5 @@
 # Hello, I'm Alex!
 
-**Machine Learning Researcher & Engineer**
-[LinkedIn](https://www.linkedin.com/in/alex-e-sanchez) | [Email](mailto:sanchezc.alexe@gmail.com)
-
----
-
 ### 🧠 About Me
 
 Hi, I'm Alex! I am a very ambitious engineer driven to innovate and create things that initially seem impossible. I am beyond fascinated by AI due to its complexity and potential to challenge the way we think about intelligence, forcing us into an unprecedented world. Alongside this, I am very curious about exploring the abstract world of mathematics, and how this language of the universe shapes our reality.
